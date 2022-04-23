@@ -6,7 +6,7 @@
 - Design and create a multi-sig partial custodianship wallet for non-technical users to use crypto and for it to be recoverable.
 - Manage the engineering team to build the initial marketplace at app.resourcenetwork.co.
 - Work with business needs and technical roadmap to order and deliver the most useful features now which also build towards a decentralized future.
-- Together with engineering and the C-suite, design a decentralized DAO structure and a path to get there.
+- Together with engineering and the rest of the C-suite, design a decentralized DAO structure and a path to get there.
 
 2018-2020 Head of Blockchain, Good Money
 - Presented initial idea of crypto stablecoin for social good.
